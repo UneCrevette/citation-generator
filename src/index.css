@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Exemple d'intégration de ta police Josefa Rounded Pro Bold Italic */
+@font-face {
+  font-family: 'Josefa Rounded Pro Bold Italic';
+  src: url('/fonts/JosefaRoundedPro-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
